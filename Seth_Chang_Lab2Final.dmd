@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Seth_Chang_Lab2Final" id="0A93C394-BC23-DFDC-0515-2C81062477F8" version="3.5">
-<createdBy>sethc</createdBy>
-<createdTime>2022-09-08 15:21:33 UTC</createdTime>
-<ownerDesignName>Chang_Seth_Lab_2</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>0A93C394-BC23-DFDC-0515-2C81062477F8</designId>
-</OSDM_Design>
