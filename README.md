@@ -1,2 +1,2 @@
 # My-SQL-Work
-This demonstrates some knowledge In SQL I have
+This demonstrates the knowledge I have in SQL
