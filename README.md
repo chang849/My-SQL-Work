@@ -1,2 +1,2 @@
 # My-SQL-Work
-This demonstrates the knowledge I have in SQL
+This demonstrates some knowledge I have accumulated using SQL in Oracle SQL Developer.
